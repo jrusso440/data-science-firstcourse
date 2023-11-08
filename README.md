@@ -1,1 +1,1 @@
-# data-science-wineknn
+# First Course in Data Science
